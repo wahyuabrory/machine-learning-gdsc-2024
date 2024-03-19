@@ -20,7 +20,6 @@ Machine learning path by Google Developer Student Clubs 2024.
 
 ### [🐍 Week 1 - Python Programming](01-python-programming/)
 
-- Pre-test
 - Introduction to Python
 - Interact with Data
 - Expression
@@ -28,7 +27,6 @@ Machine learning path by Google Developer Student Clubs 2024.
 - Array and Processing
 - Matrix
 - Subprogram
-- QnA
-- Post-test
+- Object-Oriented Programming
 
 ### [📊 Week 2 - Analyzing Data w/ Python](02-data-analysis/)
