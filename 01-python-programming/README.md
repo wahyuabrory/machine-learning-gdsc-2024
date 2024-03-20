@@ -3,6 +3,7 @@
 In this week we'll learn about Python programming. We'll start with the pre-test, then we'll learn about the introduction to Python, interact with data, expression, control flow, array and processing, matrix, subprogram, QnA, and post-test.
 
 <!-- TOC -->
+
 - [📚 Resources](#-resources)
 - [🐍 Introduction to Python](#-introduction-to-python)
   - [Python Code Editor](#python-code-editor)
@@ -31,15 +32,16 @@ In this week we'll learn about Python programming. We'll start with the pre-test
   - [Inheritance](#inheritance)
   - [Polymorphism](#polymorphism)
   - [Encapsulation](#encapsulation)
-<!-- /TOC -->
+  <!-- /TOC -->
 
 ## 📚 Resources
 
 - [📑 Presentation](week%201%20-%20Pemrograman%20dengan%20Python.pdf)
-- [📺 Video](https://youtu.be/n67IK1aejyA?si=LXH1eHH3fJYpV2d4)
 - [🪶📖 Pre-test and Post-test](https://drive.google.com/file/d/1iE17S1aVfgjUedxBJiijeqsaco3i5MAg/view?usp=drive_link)
 
 ## 🐍 Introduction to Python
+
+[![Videos](https://img.youtube.com/vi/n67IK1aejyA/default.jpg)](https://youtu.be/n67IK1aejyA)
 
 ### Python Code Editor
 
