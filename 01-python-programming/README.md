@@ -41,7 +41,7 @@ In this week we'll learn about Python programming. We'll start with the pre-test
 
 ## 🐍 Introduction to Python
 
-[![Videos](https://img.youtube.com/vi/n67IK1aejyA/default.jpg)](https://youtu.be/n67IK1aejyA)
+[![Videos](https://img.youtube.com/vi/n67IK1aejyA/0.jpg)](https://youtu.be/n67IK1aejyA)
 
 ### Python Code Editor
 
